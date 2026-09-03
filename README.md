@@ -19,6 +19,7 @@ Every city already has cameras on its roads - **hundreds of them**. But each cam
 
 > **Everyday example:** A family reports a stolen car. Instead of an officer scanning 10 separate camera screens, they search the plate once and instantly see the car drive from **Market Road -> Ring Road -> Old Fort Street**. Meanwhile, a traffic officer watches a red-hot area grow on the map and clears a developing bottleneck before it becomes a city-wide jam.
 
+
 </br>
 </br>
 </br>
